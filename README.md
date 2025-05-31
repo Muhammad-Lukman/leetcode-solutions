@@ -12,25 +12,25 @@ This repository contains my personal solutions to over 150+ LeetCode problems, c
 
 ## Categories Covered
 
-| Category             | Folder Name          |
-|----------------------|----------------------|
-| Arrays & Strings     | `Arrays_Strings/`    |
-| Two Pointers         | `Two_Pointers/`      |
-| Sliding Window       | `Sliding_Window/`    |
-| HashMap              | `Hashmap/`           |
-| Stack                | `Stack/`             |
-| Linked List          | `Linked_List/`       |
-| Trees & Binary Trees | `Trees/`             |
-| Graphs               | `Graphs/`            |
-| Trie                 | `Trie/`              |
-| Backtracking         | `Backtracking/`      |
-| Divide & Conquer     | `Divide_Conquer/`    |
-| Binary Search        | `Binary_Search/`     |
-| Heap                 | `Heap/`              |
-| Bit Manipulation     | `Bit_Manipulation/`  |
-| Math                 | `Math/`              |
-| Dynamic Programming  | `Dynamic_Programming/`|
-| Hard Level Problems  | `Hard/`              |
+| Category             | Folder Name              |
+|----------------------|--------------------------|
+| Arrays & Strings     | `1-Arrays_Strings/`      |
+| Two Pointers         | `2-Two_Pointers/`        |
+| Sliding Window       | `3-Sliding_Window/`      |
+| HashMap              | `4-Hashmap/`             |
+| Stack                | `5-Stack/`               |
+| Linked List          | `6-Linked_List/`         |
+| Trees & Binary Trees | `7-Trees/`               |
+| Graphs               | `8-Graphs/`              |
+| Trie                 | `9-Trie/`                |
+| Backtracking         | `10-Backtracking/`       |
+| Divide & Conquer     | `11-Divide_Conquer/`     |
+| Binary Search        | `12-Binary_Search/`      |
+| Heap                 | `13-Heap/`               |
+| Bit Manipulation     | `14-Bit_Manipulation/`   |
+| Math                 | `15-Math/`               |
+| Dynamic Programming  | `16-Dynamic_Programming/`|
+| Hard Level Problems  | `17-Hard/`               |
 
 ---
 
