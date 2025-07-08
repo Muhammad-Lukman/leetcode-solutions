@@ -1,6 +1,6 @@
 # LeetCode Solutions by Muhammad Lukman
 
-This repository contains my personal solutions to over 150+ LeetCode problems, categorized by topic. Each solution includes clean code, problem metadata, and test cases (where applicable).
+This repository contains my personal solutions to LeetCode problems, categorized by topic. Each solution includes clean code, problem metadata, and test cases (where applicable).
 
 ## Goals
 
